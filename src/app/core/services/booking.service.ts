@@ -1,75 +1,97 @@
-import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
-import { Observable, of } from 'rxjs';
-import { map } from 'rxjs/operators';
-import { BookingRequest } from '../models/booking.model';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 import { environment } from '../../../environments/environment';
 
-interface BookingRow {
-  service: string;
-  date: string;
-  time: string;
-  duration: string;
-  pet_type: string;
-  number_of_pets: number;
-  pet_name: string;
-  breed: string;
-  age: string;
-  special_needs: string;
-  medication: string;
-  emergency_contact: string;
-  vet_information: string;
-  address: string;
-  owner_name: string;
-  phone: string;
-  email: string;
-  notes: string;
-  consent: boolean;
-  language: string;
+export interface BookingRequest {
+	service: string;
+
+	date: string;
+	time: string;
+	duration: string;
+
+	petType: string;
+	numberOfPets: number;
+	petName: string;
+	breed: string;
+	age: string;
+
+	specialNeeds: string;
+	medication: string;
+
+	address: string;
+
+	ownerName: string;
+	phone: string;
+	email: string;
+
+	emergencyContact: string;
+	vetInformation: string;
+
+	additionalNotes: string;
+
+	consent: boolean;
 }
 
-@Injectable({ providedIn: 'root' })
+export interface BookingResponse {
+	ok?: boolean;
+	next?: string;
+}
+
+@Injectable({
+	providedIn: 'root',
+})
 export class BookingService {
-  private readonly http = inject(HttpClient);
+	private readonly http = inject(HttpClient);
 
-  submit(request: BookingRequest): Observable<{ mode: 'live' | 'demo' }> {
-    if (!environment.supabaseUrl || !environment.supabaseAnonKey) {
-      // Safe local/demo behavior: validate the UX without persisting personal data.
-      return of({ mode: 'demo' });
-    }
+	private readonly endpoint = environment.bookingFormEndpoint;
 
-    const headers = new HttpHeaders({
-      apikey: environment.supabaseAnonKey,
-      Authorization: `Bearer ${environment.supabaseAnonKey}`,
-      'Content-Type': 'application/json',
-      Prefer: 'return=minimal'
-    });
+	submitBooking(booking: BookingRequest): Observable<BookingResponse> {
+		if (!this.endpoint) {
+			throw new Error('Booking Formspree endpoint is not configured.');
+		}
 
-    const payload: BookingRow = {
-      service: request.service,
-      date: request.date,
-      time: request.time,
-      duration: request.duration,
-      pet_type: request.petType,
-      number_of_pets: request.numberOfPets,
-      pet_name: request.petName.trim(),
-      breed: request.breed.trim(),
-      age: request.age.trim(),
-      special_needs: request.specialNeeds.trim(),
-      medication: request.medication.trim(),
-      emergency_contact: request.emergencyContact.trim(),
-      vet_information: request.vetInformation.trim(),
-      address: request.address.trim(),
-      owner_name: request.ownerName.trim(),
-      phone: request.phone.trim(),
-      email: request.email.trim().toLowerCase(),
-      notes: request.notes.trim(),
-      consent: request.consent,
-      language: request.language
-    };
+		const payload = {
+			_subject: `🐾 NEW BOOKING | ${booking.service} | ${booking.date} ${booking.time}`,
 
-    return this.http
-      .post(`${environment.supabaseUrl}/rest/v1/booking_requests`, payload, { headers })
-      .pipe(map(() => ({ mode: 'live' as const })));
-  }
+			service: booking.service,
+
+			date: booking.date,
+			time: booking.time,
+			duration: booking.duration,
+
+			petType: booking.petType,
+			numberOfPets: booking.numberOfPets,
+			petName: booking.petName,
+			breed: booking.breed,
+			age: booking.age,
+
+			specialNeeds: booking.specialNeeds.trim() || 'None',
+
+			medication: booking.medication.trim() || 'None',
+
+			address: booking.address.trim(),
+
+			ownerName: booking.ownerName.trim(),
+			phone: booking.phone.trim(),
+			email: booking.email.trim(),
+
+			emergencyContact: booking.emergencyContact.trim() || 'Not provided',
+
+			vetInformation: booking.vetInformation.trim() || 'Not provided',
+
+			additionalNotes: booking.additionalNotes.trim() || 'None',
+
+			consent: booking.consent ? 'Accepted' : 'Not accepted',
+
+			submittedAt: new Date().toISOString(),
+		};
+
+		return this.http.post<BookingResponse>(this.endpoint, payload, {
+			headers: {
+				Accept: 'application/json',
+				'Content-Type': 'application/json',
+			},
+		});
+	}
 }

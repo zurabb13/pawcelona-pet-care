@@ -1,6 +1,7 @@
 export const environment = {
-  production: false,
-  siteUrl: 'http://localhost:4200',
-  supabaseUrl: '',
-  supabaseAnonKey: ''
+	production: false,
+
+	siteUrl: 'http://localhost:4200',
+
+	bookingFormEndpoint: 'https://formspree.io/f/xeaoqndl',
 };
