@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/prices</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/prices" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/prices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/prices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/prices" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/prices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/prices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/prices</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/prices" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/prices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/prices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/prices</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/prices" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/prices" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/prices" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/prices" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/how-it-works</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/how-it-works" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/about" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/safety</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/safety" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/safety" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/safety" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/safety" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/safety" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/safety" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/safety</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/safety" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/safety" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/safety" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/safety</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/safety" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/safety" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/safety" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/safety" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/areas</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/areas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/areas" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/areas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/areas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/areas" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/areas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/areas</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/areas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/areas" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/areas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/areas</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/areas" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/areas" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/areas" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/areas" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/faq" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/faq" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/faq" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/faq" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/faq" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/contact" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/book" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/book" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/book" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/book" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/book" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/privacy" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/cookies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/cookies" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/cookies" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/cookies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/cookies" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/cookies" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/cookies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/cookies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/cookies" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/cookies" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/cookies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/cookies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/cookies" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/cookies" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/cookies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/cookies" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/terms" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/terms" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/dog-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/dog-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/dog-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/dog-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/dog-walking" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/cat-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/cat-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/cat-sitting</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/cat-sitting" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/cat-sitting" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/home-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/home-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/home-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/home-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/home-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/overnight-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/overnight-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/overnight-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/overnight-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/overnight-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-taxi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-taxi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-taxi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/pet-taxi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/pet-taxi" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/puppy-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/puppy-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/puppy-visits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/puppy-visits" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/puppy-visits" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/vet-visit-assistance</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/vet-visit-assistance</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/vet-visit-assistance</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/vet-visit-assistance" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/vet-visit-assistance" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/weekend-holiday-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/weekend-holiday-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+  </url>
+  <url>
+    <loc>https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/weekend-holiday-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://REPLACE-WITH-YOUR-DOMAIN.example/en/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ca/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://REPLACE-WITH-YOUR-DOMAIN.example/ru/services/weekend-holiday-care" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://REPLACE-WITH-YOUR-DOMAIN.example/es/services/weekend-holiday-care" />
+  </url>
+</urlset>

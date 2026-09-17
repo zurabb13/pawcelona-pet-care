@@ -1,0 +1,52 @@
+<header class="site-header" [class.site-header--compact]="compact()">
+  <div class="shell site-header__inner">
+    <a class="brand" [routerLink]="i18n.localized()" (click)="closeMenu()" [attr.aria-label]="business.workingBrand + ' · ' + i18n.t('common.home')">
+      <img src="/logo-mark.svg" alt="" width="42" height="42">
+      <span>
+        <strong>{{ business.workingBrand }}</strong>
+        <small>{{ i18n.t('brand.tagline') }}</small>
+      </span>
+    </a>
+
+    <nav class="desktop-nav" [attr.aria-label]="i18n.t('common.primaryNavigation')">
+      <a [routerLink]="i18n.localized('services')" routerLinkActive="is-active">{{ i18n.t('nav.services') }}</a>
+      <a [routerLink]="i18n.localized('prices')" routerLinkActive="is-active">{{ i18n.t('nav.prices') }}</a>
+      <a [routerLink]="i18n.localized('how-it-works')" routerLinkActive="is-active">{{ i18n.t('nav.how') }}</a>
+      <a [routerLink]="i18n.localized('safety')" routerLinkActive="is-active">{{ i18n.t('nav.safety') }}</a>
+      <a [routerLink]="i18n.localized('about')" routerLinkActive="is-active">{{ i18n.t('nav.about') }}</a>
+      <a [routerLink]="i18n.localized('faq')" routerLinkActive="is-active">{{ i18n.t('nav.faq') }}</a>
+    </nav>
+
+    <div class="site-header__actions">
+      <label class="language-select" [attr.aria-label]="i18n.t('common.language')">
+        <select [value]="i18n.language()" (change)="changeLanguage($any($event.target).value)">
+          <option value="es">ES</option>
+          <option value="ca">CA</option>
+          <option value="en">EN</option>
+          <option value="ru">RU</option>
+        </select>
+      </label>
+      <a class="btn btn--primary btn--small desktop-book" [routerLink]="i18n.localized('book')">{{ i18n.t('nav.book') }}</a>
+      <button class="menu-button" type="button" (click)="toggleMenu()" [attr.aria-expanded]="mobileOpen()" [attr.aria-label]="i18n.t('common.menu')">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+
+  @if (mobileOpen()) {
+    <div class="mobile-panel">
+      <nav class="shell mobile-nav" [attr.aria-label]="i18n.t('common.mobileNavigation')">
+        <a [routerLink]="i18n.localized('services')" (click)="closeMenu()">{{ i18n.t('nav.services') }}</a>
+        <a [routerLink]="i18n.localized('prices')" (click)="closeMenu()">{{ i18n.t('nav.prices') }}</a>
+        <a [routerLink]="i18n.localized('how-it-works')" (click)="closeMenu()">{{ i18n.t('nav.how') }}</a>
+        <a [routerLink]="i18n.localized('safety')" (click)="closeMenu()">{{ i18n.t('nav.safety') }}</a>
+        <a [routerLink]="i18n.localized('about')" (click)="closeMenu()">{{ i18n.t('nav.about') }}</a>
+        <a [routerLink]="i18n.localized('faq')" (click)="closeMenu()">{{ i18n.t('nav.faq') }}</a>
+        <div class="mobile-nav__actions">
+          <a class="btn btn--primary" [routerLink]="i18n.localized('book')" (click)="closeMenu()">{{ i18n.t('nav.book') }}</a>
+          <a class="btn btn--ghost" [href]="whatsappHref()" target="_blank" rel="noopener noreferrer">{{ i18n.t('common.whatsapp') }}</a>
+        </div>
+      </nav>
+    </div>
+  }
+</header>

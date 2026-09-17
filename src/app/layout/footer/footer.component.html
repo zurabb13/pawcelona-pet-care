@@ -1,0 +1,27 @@
+<footer class="site-footer">
+  <div class="shell site-footer__grid">
+    <div>
+      <a class="brand brand--footer" [routerLink]="i18n.localized()">
+        <img src="/logo-mark.svg" alt="" width="46" height="46">
+        <span><strong>{{ business.workingBrand }}</strong><small>{{ i18n.t('footer.description') }}</small></span>
+      </a>
+    </div>
+    <div>
+      <h3>{{ i18n.t('footer.navigate') }}</h3>
+      <a [routerLink]="i18n.localized('services')">{{ i18n.t('nav.services') }}</a>
+      <a [routerLink]="i18n.localized('prices')">{{ i18n.t('nav.prices') }}</a>
+      <a [routerLink]="i18n.localized('book')">{{ i18n.t('nav.book') }}</a>
+      <a [routerLink]="i18n.localized('contact')">{{ i18n.t('common.contact') }}</a>
+    </div>
+    <div>
+      <h3>{{ i18n.t('footer.legal') }}</h3>
+      <a [routerLink]="i18n.localized('privacy')">{{ i18n.t('footer.privacy') }}</a>
+      <a [routerLink]="i18n.localized('cookies')">{{ i18n.t('footer.cookies') }}</a>
+      <a [routerLink]="i18n.localized('terms')">{{ i18n.t('footer.terms') }}</a>
+    </div>
+  </div>
+  <div class="shell site-footer__bottom">
+    <span>© {{ year }} {{ business.workingBrand }}</span>
+    <span>{{ i18n.t('footer.disclaimer') }}</span>
+  </div>
+</footer>

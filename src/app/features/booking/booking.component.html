@@ -1,0 +1,81 @@
+<app-page-hero [eyebrow]="i18n.t('nav.book')" [title]="i18n.t('pages.booking.title')" [text]="i18n.t('pages.booking.text')" />
+<section class="section section--cream">
+  <div class="shell booking-layout">
+    <aside class="booking-aside">
+      <span class="eyebrow"><i></i>{{ business.workingBrand }}</span>
+      <h2>{{ i18n.t('hero.cardTitle') }}</h2>
+      <p>{{ i18n.t('booking.notice') }}</p>
+      <div class="booking-aside__list">
+        <span>✓ {{ i18n.t('trust.a.title') }}</span>
+        <span>✓ {{ i18n.t('trust.b.title') }}</span>
+        <span>✓ {{ i18n.t('trust.d.title') }}</span>
+      </div>
+    </aside>
+
+    <form class="booking-form" [formGroup]="form" (ngSubmit)="submit()" novalidate>
+      <div class="honeypot" aria-hidden="true">
+        <label>Website <input type="text" formControlName="website" tabindex="-1" autocomplete="off"></label>
+      </div>
+
+      <div class="form-section">
+        <span class="form-section__number">01</span>
+        <div><h2>{{ i18n.t('booking.sectionService') }}</h2><p>{{ i18n.t('pages.booking.text') }}</p></div>
+      </div>
+      <div class="form-grid">
+        <label class="field field--full"><span>{{ i18n.t('booking.service') }} *</span>
+          <select formControlName="service" required [attr.aria-invalid]="form.controls.service.invalid && form.controls.service.touched">
+            <option value="" disabled>—</option>
+            @for (service of services; track service.id) { <option [value]="service.id">{{ i18n.t(service.titleKey) }}</option> }
+          </select>
+        </label>
+        <label class="field"><span>{{ i18n.t('booking.date') }} *</span><input type="date" [min]="minDate" formControlName="date" required></label>
+        <label class="field"><span>{{ i18n.t('booking.time') }} *</span><input type="time" formControlName="time" required></label>
+        <label class="field"><span>{{ i18n.t('booking.duration') }}</span>
+          <select formControlName="duration"><option value="30">30 min</option><option value="60">60 min</option><option value="custom">{{ i18n.t('booking.custom') }}</option></select>
+        </label>
+        <label class="field"><span>{{ i18n.t('booking.petType') }} *</span>
+          <select formControlName="petType" required><option value="dog">{{ i18n.t('booking.petDog') }}</option><option value="cat">{{ i18n.t('booking.petCat') }}</option><option value="other">{{ i18n.t('booking.petOther') }}</option></select>
+        </label>
+      </div>
+
+      <div class="form-section">
+        <span class="form-section__number">02</span>
+        <div><h2>{{ i18n.t('booking.sectionPet') }}</h2><p>{{ i18n.t('how.step2.text') }}</p></div>
+      </div>
+      <div class="form-grid">
+        <label class="field"><span>{{ i18n.t('booking.numberPets') }} *</span><input type="number" min="1" max="10" formControlName="numberOfPets" required></label>
+        <label class="field"><span>{{ i18n.t('booking.petName') }} *</span><input type="text" formControlName="petName" autocomplete="off" required maxlength="120"></label>
+        <label class="field"><span>{{ i18n.t('booking.breed') }}</span><input type="text" formControlName="breed" maxlength="120"></label>
+        <label class="field"><span>{{ i18n.t('booking.age') }}</span><input type="text" formControlName="age" maxlength="80"></label>
+        <label class="field field--full"><span>{{ i18n.t('booking.specialNeeds') }}</span><textarea rows="3" formControlName="specialNeeds" maxlength="2000"></textarea></label>
+        <label class="field field--full"><span>{{ i18n.t('booking.medication') }}</span><textarea rows="3" formControlName="medication" maxlength="2000"></textarea></label>
+        <label class="field field--full"><span>{{ i18n.t('booking.emergencyContact') }}</span><input type="text" formControlName="emergencyContact" maxlength="500"></label>
+        <label class="field field--full"><span>{{ i18n.t('booking.vetInformation') }}</span><textarea rows="3" formControlName="vetInformation" maxlength="1000"></textarea></label>
+      </div>
+
+      <div class="form-section">
+        <span class="form-section__number">03</span>
+        <div><h2>{{ i18n.t('booking.sectionOwner') }}</h2><p>{{ i18n.t('trust.d.text') }}</p></div>
+      </div>
+      <div class="form-grid">
+        <label class="field field--full"><span>{{ i18n.t('booking.address') }} *</span><input type="text" formControlName="address" autocomplete="street-address" required maxlength="500"></label>
+        <label class="field"><span>{{ i18n.t('booking.ownerName') }} *</span><input type="text" formControlName="ownerName" autocomplete="name" required maxlength="120"></label>
+        <label class="field"><span>{{ i18n.t('booking.phone') }} *</span><input type="tel" formControlName="phone" autocomplete="tel" inputmode="tel" required maxlength="40"></label>
+        <label class="field field--full"><span>{{ i18n.t('booking.email') }} *</span><input type="email" formControlName="email" autocomplete="email" required maxlength="254"></label>
+        <label class="field field--full"><span>{{ i18n.t('booking.notes') }}</span><textarea rows="4" formControlName="notes" maxlength="3000"></textarea></label>
+        <label class="consent field--full">
+          <input type="checkbox" formControlName="consent" required>
+          <span>{{ i18n.t('booking.consent') }} <a class="inline-link" [routerLink]="i18n.localized('privacy')">{{ i18n.t('booking.privacyLink') }}</a></span>
+        </label>
+      </div>
+
+      @if (state() === 'error') { <p class="form-message form-message--error" role="alert">{{ i18n.t('booking.required') }}</p> }
+      @if (state() === 'success') {
+        <p class="form-message form-message--success" role="status">{{ i18n.t(resultMode() === 'live' ? 'booking.successLive' : 'booking.successDemo') }}</p>
+      }
+      <button class="btn btn--primary btn--large submit-button" type="submit" [disabled]="state() === 'saving'">
+        {{ state() === 'saving' ? i18n.t('booking.sending') : i18n.t('booking.submit') }} <span>↗</span>
+      </button>
+    </form>
+  </div>
+</section>

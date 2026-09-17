@@ -1,0 +1,16 @@
+{
+  "name": "Pawcelona Pet Care",
+  "short_name": "Pawcelona",
+  "start_url": "/es",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#153f37",
+  "icons": [
+    {
+      "src": "/logo-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
