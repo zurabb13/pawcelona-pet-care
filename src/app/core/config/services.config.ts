@@ -8,13 +8,13 @@ import { PetService } from '../models/service.model';
 export const SERVICES: PetService[] = [
   {
     id: 'dog-walking', slug: 'dog-walking', titleKey: 'services.dogWalking.title', shortDescriptionKey: 'services.dogWalking.short', longDescriptionKey: 'services.dogWalking.long', eyebrowKey: 'services.dogWalking.eyebrow', priceFrom: 15,
-    image: 'https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=84',
+    image: 'https://images.unsplash.com/photo-1530700131180-d43d9b8cc41f?auto=format&fit=crop&w=1200&q=84',
     features: ['services.features.routine', 'services.features.photos', 'services.features.water'],
     options: [{ labelKey: 'pricing.walk30', duration: 30, price: 15 }, { labelKey: 'pricing.walk60', duration: 60, price: 22 }]
   },
   {
     id: 'pet-sitting', slug: 'pet-sitting', titleKey: 'services.petSitting.title', shortDescriptionKey: 'services.petSitting.short', longDescriptionKey: 'services.petSitting.long', eyebrowKey: 'services.petSitting.eyebrow', priceFrom: 24,
-    image: 'https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=1200&q=84',
+    image: 'https://plus.unsplash.com/premium_photo-1728545290865-cecc097be765?auto=format&fit=crop&w=1200&q=84',
     features: ['services.features.homeRoutine', 'services.features.photos', 'services.features.play']
   },
   {
@@ -24,17 +24,17 @@ export const SERVICES: PetService[] = [
   },
   {
     id: 'home-visits', slug: 'home-visits', titleKey: 'services.homeVisits.title', shortDescriptionKey: 'services.homeVisits.short', longDescriptionKey: 'services.homeVisits.long', eyebrowKey: 'services.homeVisits.eyebrow', priceFrom: 15,
-    image: 'https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1200&q=84',
+    image: 'https://plus.unsplash.com/premium_photo-1664371206877-d671fad530be?q=80&w=987?auto=format&fit=crop&w=1200&q=84',
     features: ['services.features.feeding', 'services.features.medication', 'services.features.photos']
   },
   {
     id: 'overnight-care', slug: 'overnight-care', titleKey: 'services.overnight.title', shortDescriptionKey: 'services.overnight.short', longDescriptionKey: 'services.overnight.long', eyebrowKey: 'services.overnight.eyebrow', priceFrom: 55,
-    image: 'https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=1200&q=84',
+    image: 'https://images.unsplash.com/photo-1575859430617-f9dafd400b66?q=80&w=2071?auto=format&fit=crop&w=1200&q=84',
     features: ['services.features.overnight', 'services.features.routine', 'services.features.photos']
   },
   {
     id: 'pet-taxi', slug: 'pet-taxi', titleKey: 'services.petTaxi.title', shortDescriptionKey: 'services.petTaxi.short', longDescriptionKey: 'services.petTaxi.long', eyebrowKey: 'services.petTaxi.eyebrow', priceFrom: 18,
-    image: 'https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=1200&q=84',
+    image: 'https://plus.unsplash.com/premium_photo-1661916447474-235409b19e16?q=80&w=2069?auto=format&fit=crop&w=1200&q=84',
     features: ['services.features.transport', 'services.features.vet', 'services.features.updates']
   },
   {
